@@ -1,0 +1,202 @@
+[
+    {
+        "id": "01",
+        "catagoryID": "01",
+        "catagory": "Commercial Furniture",
+        "name": "Office desks",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "02",
+        "catagoryID": "01",
+        "catagory": "Commercial Furniture",
+        "name": "Reception area seating",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "03",
+        "catagoryID": "01",
+        "catagory": "Commercial Furniture",
+        "name": "Conference tables",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "04",
+        "catagoryID": "01",
+        "catagory": "Commercial Furniture",
+        "name": "Filing cabinets",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "05",
+        "catagoryID": "01",
+        "catagory": "Commercial Furniture",
+        "name": "Waiting room chairs",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "06",
+        "catagoryID": "02",
+        "catagory": "Resturant Furniture",
+        "name": "Restaurant tables",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "07",
+        "catagoryID": "02",
+        "catagory": "Resturant Furniture",
+        "name": "Hotel room beds",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "08",
+        "catagoryID": "02",
+        "catagory": "Resturant Furniture",
+        "name": "Bar stools",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "09",
+        "catagoryID": "02",
+        "catagory": "Resturant Furniture",
+        "name": "Lobby seating",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "10",
+        "catagoryID": "02",
+        "catagory": "Resturant Furniture",
+        "name": "Outdoor patio furniture",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "11",
+        "catagoryID": "03",
+        "catagory": "Educational Furniture",
+        "name": "Classroom desks",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "12",
+        "catagoryID": "03",
+        "catagory": "Educational Furniture",
+        "name": "Student chairs",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "13",
+        "catagoryID": "03",
+        "catagory": "Educational Furniture",
+        "name": "Library shelving",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "14",
+        "catagoryID": "03",
+        "catagory": "Educational Furniture",
+        "name": "Computer lab tables",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "15",
+        "catagoryID": "03",
+        "catagory": "Educational Furniture",
+        "name": "Science lab workstations",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "16",
+        "catagoryID": "04",
+        "catagory": "Hospital Furniture",
+        "name": "Hospital beds",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "17",
+        "catagoryID": "04",
+        "catagory": "Hospital Furniture",
+        "name": "Patient chairs",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "18",
+        "catagoryID": "04",
+        "catagory": "Hospital Furniture",
+        "name": "Examination tables",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "19",
+        "catagoryID": "04",
+        "catagory": "Hospital Furniture",
+        "name": "Waiting room seating",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "20",
+        "catagoryID": "04",
+        "catagory": "Hospital Furniture",
+        "name": "Medical carts",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "21",
+        "catagoryID": "05",
+        "catagory": "Residential Furniture",
+        "name": "Beds",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "22",
+        "catagoryID": "05",
+        "catagory": "Residential Furniture",
+        "name": "Sofas",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "23",
+        "catagoryID": "05",
+        "catagory": "Residential Furniture",
+        "name": "Dining tables",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "24",
+        "catagoryID": "05",
+        "catagory": "Residential Furniture",
+        "name": "Armchairs",
+        "price": "1500",
+        "image": ""
+    },
+    {
+        "id": "25",
+        "catagoryID": "05",
+        "catagory": "Residential Furniture",
+        "name": "Bookcases",
+        "price": "1500",
+        "image": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "name": "Commercial Furniture"
+    },
+    {
+        "id": "02",
+        "name": "Resturant Furniture"
+    },
+    {
+        "id": "03",
+        "name": "Educational Furniture"
+    },
+    {
+        "id": "04",
+        "name": "Hospital Furniture"
+    },
+    {
+        "id": "05",
+        "name": "Residential Furniture"
+    }
+]
